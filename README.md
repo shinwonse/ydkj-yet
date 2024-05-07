@@ -3,7 +3,19 @@
 </div>
 
 # You Don't Know JS Yet 학습용 레포지토리
+
 YDKJ Yet 1권 & 2권 합본호를 합슥하면서 나오는 개념들에 대한 실습 코드를 작성합니다.
 
 ## 학습 기간
+
 2024.05.06 ~ NOW
+
+## 목차
+
+### Part1
+
+### Part2
+
+[Chapter6 스코프 노출 제한]()
+[Chapter7 클로저 사용법]()
+[Chapter8 모듈 패턴](https://github.com/shinwonse/ydkj-yet/tree/main/Part2/Chapter8)
