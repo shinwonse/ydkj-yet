@@ -16,6 +16,6 @@ YDKJ Yet 1권 & 2권 합본호를 합슥하면서 나오는 개념들에 대한 
 
 ### Part2
 - [Chapter4 전역 스코프](https://github.com/shinwonse/ydkj-yet/tree/main/Part2/Chapter4)
-- [Chapter6 스코프 노출 제한]()
-- [Chapter7 클로저 사용법]()
+- [Chapter6 스코프 노출 제한](https://github.com/shinwonse/ydkj-yet/tree/main/Part2/Chapter6)
+- [Chapter7 클로저 사용법](https://github.com/shinwonse/ydkj-yet/tree/main/Part2/Chapter7)
 - [Chapter8 모듈 패턴](https://github.com/shinwonse/ydkj-yet/tree/main/Part2/Chapter8)
