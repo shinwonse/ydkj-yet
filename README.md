@@ -13,6 +13,7 @@ YDKJ Yet 1권 & 2권 합본호를 합슥하면서 나오는 개념들에 대한 
 ## 목차
 
 ### Part1
+- [Chapter2 자바스크립트 조망하기](https://github.com/shinwonse/ydkj-yet/tree/main/Part1/Chapter2)
 
 ### Part2
 - [Chapter4 전역 스코프](https://github.com/shinwonse/ydkj-yet/tree/main/Part2/Chapter4)
